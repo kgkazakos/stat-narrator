@@ -1,0 +1,15 @@
+{
+  "stat_type": "ttest",
+  "n": 120,
+  "group1_label": "New onboarding",
+  "group2_label": "Legacy onboarding",
+  "mean_group1": 4.31,
+  "mean_group2": 3.74,
+  "sd_group1": 0.82,
+  "sd_group2": 0.91,
+  "t_statistic": 3.87,
+  "t_df": 118,
+  "p_value": 0.0002,
+  "cohens_d": 0.66,
+  "context": "Usability study — A/B comparison of onboarding flows"
+}

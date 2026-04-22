@@ -1,0 +1,13 @@
+{
+  "stat_type": "anova",
+  "n": 180,
+  "f_value": 12.4,
+  "p_value": 0.00001,
+  "eta_squared": 0.12,
+  "groups": [
+    { "name": "Power users",   "mean": 4.7, "sd": 0.6, "n": 60 },
+    { "name": "Casual users",  "mean": 3.9, "sd": 0.8, "n": 60 },
+    { "name": "New users",     "mean": 3.2, "sd": 1.1, "n": 60 }
+  ],
+  "context": "Satisfaction by user segment — quarterly survey"
+}

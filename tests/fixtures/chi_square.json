@@ -1,0 +1,9 @@
+{
+  "stat_type": "chi_square",
+  "n": 420,
+  "chi_square": 18.7,
+  "chi_df": 2,
+  "p_value": 0.00009,
+  "cramers_v": 0.21,
+  "context": "Feature adoption by role — enterprise accounts"
+}

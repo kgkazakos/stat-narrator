@@ -1,0 +1,9 @@
+{
+  "stat_type": "correlation",
+  "n": 310,
+  "var1": "Task completion time",
+  "var2": "User frustration score",
+  "r": 0.62,
+  "p_value": 0.00001,
+  "context": "Moderated usability sessions — mobile app"
+}
