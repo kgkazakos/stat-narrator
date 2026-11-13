@@ -87,7 +87,7 @@ def enrich_gemini(stat: StatInput, result: NarrativeOutput) -> NarrativeOutput:
         client = genai.Client()
         prompt = _SYSTEM_PROMPT + "\n\n" + _build_prompt(stat, result)
         response = client.models.generate_content(
-            model="gemini-3.1-pro-preview",
+            model="gemini-4-argon",
             contents=prompt,
             config=types.GenerateContentConfig(
                 max_output_tokens=400,
